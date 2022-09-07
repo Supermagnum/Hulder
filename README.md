@@ -16,3 +16,16 @@ To catch/tame her you have to trow a piece of steel over her head. She is quite 
 There are a story of a man who didn't heed her calls for dinner,- so she had enough and came into the smithy,- took a red glowing horse shoe out from the forge and straightened it out using her bare hands and said "I could easily hurt you if I want".
 
 She also in some districts have a dark erotic trait,- If you are capable of satisfying her needs you will be rewarded with gold... But if you don't,- whoe upon you! 
+
+
+The blend files are located at:
+https://www.dropbox.com/s/o0pb235j5xe7oed/Hulder-cloth.blend?dl=0
+
+It has some issues,- the riging needs to have its weight painting checked.
+I have tried to get the hair to work,- but it clips into the model and causes issues.
+The clothing should aslo been looked at.
+
+image: ![Image](https://github.com/Supermagnum/Hulder/blob/main/hulder.png)
+![Image from public domain, Theodor Kittelsen](https://github.com/Supermagnum/Hulder/blob/main/NG.K_H.B.06921.jpg)
+
+
