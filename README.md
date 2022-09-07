@@ -26,6 +26,7 @@ I have tried to get the hair to work,- but it clips into the model and causes is
 The clothing should aslo been looked at.
 
 image: ![Image](https://github.com/Supermagnum/Hulder/blob/main/hulder.png)
+Image from public domain, Theodor Kittelsen
 ![Image from public domain, Theodor Kittelsen](https://github.com/Supermagnum/Hulder/blob/main/NG.K_H.B.06921.jpg)
 
 
