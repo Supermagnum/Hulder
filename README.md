@@ -1,5 +1,5 @@
 # Hulder
-A hulder (or huldra), a attempt at modelling a forest creature/spirit in Blender.
+A attempt at modelling a forest creature/spirit in Blender.
 
 A hulder (or huldra) is a seductive forest creature found in Scandinavian folklore. Her name derives from a root meaning "covered" or "secret".
  In Norwegian folklore, she is known as huldra ("the [archetypal] hulder", though folklore presupposes that there is an entire Hulder race and not just a single individual). She is known as the skogsrå "forest spirit" or Tallemaja "pine tree Mary" in Swedish folklore, and ulda in Sámi folklore. Her name suggests that she is originally the same being as the völva divine figure Huld and the German Holda.
@@ -21,9 +21,9 @@ She also in some districts have a dark erotic trait,- If you are capable of sati
 The blend files are located at:
 https://www.dropbox.com/s/o0pb235j5xe7oed/Hulder-cloth.blend?dl=0
 
-It has some issues,- the riging needs to have its weight painting checked.
+It has some issues,- the rigging needs to have its weight painting checked.
 I have tried to get the hair to work,- but it clips into the model and causes issues.
-The clothing should aslo been looked at.
+The clothing should also been looked at.
 
 image: ![Image](https://github.com/Supermagnum/Hulder/blob/main/hulder.png)
 Image from public domain, Theodor Kittelsen
